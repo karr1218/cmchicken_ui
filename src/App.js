@@ -18,7 +18,7 @@ function App() {
               <Route>   -- path : loc
       */}
       <BrowserRouter>
-{/*     Because every pages start from customer-welcome...
+        {/*     Because every pages start from customer-welcome...
             using Route exact path (location) & element      
         <CustomerWelcome /> */}
       <Routes>
